@@ -1,0 +1,6 @@
+# ninja log v6
+4	836	7532918325522830	CMakeFiles/Final_project_game.dir/main.cpp.obj	780a95be4ceaeb99
+686	760	7531964426294223	Final_project_game.exe	4f1794208d4ee5e5
+2	765	7532942625501217	build.ninja	e68388b8d16289ee
+25	942	7532942637620795	CMakeFiles/Final_project_game.dir/src/SDL_bgi.cpp.obj	a33daa1fa7ae25e3
+942	1043	7532942646801040	Final_project_game.exe	c72f9a7be691b2b7
