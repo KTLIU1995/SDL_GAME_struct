@@ -2,7 +2,8 @@
 #include <SDL.h>
 #include <SDL2/SDL_image.h>
 #include <SDL2/SDL_ttf.h>
-#include "src/graphics.h"
+#include "SDL_lib/graphics.h"
+#include "SDL_lib/SDL_bgi.h"
 
 int main(int argc, char* argv[]){
     int x = 0, y = 0, dx = 1, dy = 1, r = 100;

@@ -56,12 +56,12 @@ build CMakeFiles/Final_project_game.dir/main.cpp.obj: CXX_COMPILER__Final_projec
   OBJECT_DIR = CMakeFiles\Final_project_game.dir
   OBJECT_FILE_DIR = CMakeFiles\Final_project_game.dir
 
-build CMakeFiles/Final_project_game.dir/src/SDL_bgi.cpp.obj: CXX_COMPILER__Final_project_game_unscanned_Debug C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/src/SDL_bgi.cpp || cmake_object_order_depends_target_Final_project_game
-  DEP_FILE = CMakeFiles\Final_project_game.dir\src\SDL_bgi.cpp.obj.d
+build CMakeFiles/Final_project_game.dir/SDL_lib/SDL_bgi.cpp.obj: CXX_COMPILER__Final_project_game_unscanned_Debug C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL_bgi.cpp || cmake_object_order_depends_target_Final_project_game
+  DEP_FILE = CMakeFiles\Final_project_game.dir\SDL_lib\SDL_bgi.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   INCLUDES = -I"C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/include/SDL2" -I"C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_image-2.8.2/x86_64-w64-mingw32/include" -I"C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_ttf-2.22.0/x86_64-w64-mingw32/include"
   OBJECT_DIR = CMakeFiles\Final_project_game.dir
-  OBJECT_FILE_DIR = CMakeFiles\Final_project_game.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\Final_project_game.dir\SDL_lib
 
 
 # =============================================================================
@@ -71,7 +71,7 @@ build CMakeFiles/Final_project_game.dir/src/SDL_bgi.cpp.obj: CXX_COMPILER__Final
 #############################################
 # Link the executable Final_project_game.exe
 
-build Final_project_game.exe: CXX_EXECUTABLE_LINKER__Final_project_game_Debug CMakeFiles/Final_project_game.dir/main.cpp.obj CMakeFiles/Final_project_game.dir/src/SDL_bgi.cpp.obj | C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2.dll.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_image-2.8.2/x86_64-w64-mingw32/lib/libSDL2_image.dll.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_ttf-2.22.0/x86_64-w64-mingw32/lib/libSDL2_ttf.dll.a
+build Final_project_game.exe: CXX_EXECUTABLE_LINKER__Final_project_game_Debug CMakeFiles/Final_project_game.dir/main.cpp.obj CMakeFiles/Final_project_game.dir/SDL_lib/SDL_bgi.cpp.obj | C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2.dll.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_image-2.8.2/x86_64-w64-mingw32/lib/libSDL2_image.dll.a C$:/Users/Liu$ KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_ttf-2.22.0/x86_64-w64-mingw32/lib/libSDL2_ttf.dll.a
   FLAGS = -g
   LINK_LIBRARIES = -lmingw32  -mwindows  "C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a"  "C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2.dll.a"  "C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_image-2.8.2/x86_64-w64-mingw32/lib/libSDL2_image.dll.a"  "C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2_ttf-2.22.0/x86_64-w64-mingw32/lib/libSDL2_ttf.dll.a"  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Final_project_game.dir

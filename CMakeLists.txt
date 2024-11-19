@@ -16,9 +16,9 @@ include_directories(${SDL2_INCLUDE_DIR} ${SDL2_IMAGE_PATH}/include ${SDL2_TTF_PA
 #link_directories(${SDL2_IMAGE_PATH}/lib/x64)
 
 add_executable(Final_project_game main.cpp
-        src/graphics.h
-        src/SDL_bgi.cpp
-        src/SDL_bgi.h
+        SDL_lib/graphics.h
+        SDL_lib/SDL_bgi.cpp
+        SDL_lib/SDL_bgi.h
 )
 
 target_link_libraries(${PROJECT_NAME} ${SDL2_LIBRARY} ${SDL2_IMAGE_LIBRARIES} ${SDL2_TTF_LIBRARIES})

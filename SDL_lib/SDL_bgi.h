@@ -36,7 +36,7 @@ freely, subject to the following restrictions:
 #include <math.h>
 // for strlen(), memcpy()
 #include <string.h>
-extern "C"{
+
 #ifndef _SDL_BGI_H
 #define _SDL_BGI_H
 
@@ -3510,7 +3510,7 @@ static unsigned char gfxPrimitivesFontdata[GFX_FONTDATAMAX] = {
 	0x00,			/* 00000000 */
 
 };
-}
+
 
 #endif
 

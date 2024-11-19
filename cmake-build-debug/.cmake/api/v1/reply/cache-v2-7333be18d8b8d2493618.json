@@ -699,7 +699,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2024.2.1/bin/ninja/win/x64/ninja.exe"
+			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/ninja/win/x64/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1455,7 +1455,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2.dll.a"
+			"value" : "mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;mingw32;-mwindows;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2main.a;C:/Users/Liu KT/Documents/CLIon/Final_project_game/SDL_lib/SDL2-2.30.7/x86_64-w64-mingw32/lib/libSDL2.dll.a"
 		},
 		{
 			"name" : "SDL2_TTF_INCLUDE_DIR",
